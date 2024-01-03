@@ -20,16 +20,19 @@ This  design ensures a neater setup by combining the routing of the Canbus cable
 <table>
   <tr>
     <td>
-      <img src="images/preview.png" width="300px" alt="Canbus and Bowden Tube Integration">
+      <img src="images/preview.png" width="500px" alt="Canbus and Bowden Tube Integration">
     </td>
     <td>
-      <img src="images/image2.png" width="300px" alt="Canbus and Bowden Tube Integration">
+      <img src="images/image2.png" width="500px" alt="Canbus and Bowden Tube Integration">
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="images/image3.png" width="500px" alt="Canbus and Bowden Tube Integration">
+    </td>
+  </tr>
+
 </table>
-
-<img src="images/image3.png" width="500px" alt="Canbus and Bowden Tube Integration">
-
 
 ## Contributing
 
