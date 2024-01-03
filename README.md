@@ -8,5 +8,4 @@
 | [CW2_BTT_CANBUS](./CW2_BTT_CANBUS) | A Clockwork2 CANbus holder for BigTreeTech's SKR 2209 and RP2040, designed to accommodate the installation of all three different cable endings that come with these boards. | ![Preview](./CW2_BTT_CANBUS/images/preview.png) |
 | [GALILEO2_BTT_CANBUS](./GALILEO2_BTT_CANBUS) | A Galileo2 CANbus holder for BigTreeTech's SKR 2209 and RP2040, designed to accommodate the installation of all three different cable endings that come with these boards. | ![Preview](./GALILEO2_BTT_CANBUS/images/preview.png) |
 | [SKIRT_KEYSTONE](./SKIRT_KEYSTONE) | A modified rear skirt designed to enable the correct insertion of Amazon USB keystones and LAN keystones without the need for superglue or other adhesives. | ![Preview](./SKIRT_KEYSTONE/images/preview.png) |
-
 | [CANBUS_CABLE_FROM_ABOVE](./CANBUS_CABLE_FROM_ABOVE) | A Modified way to "unbilical" the can bus cable, from above , together with the bowden tube.  | ![Preview](./CANBUS_CABLE_FROM_ABOVE/images/preview.png) |
