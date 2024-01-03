@@ -12,7 +12,11 @@ This  design ensures a neater setup by combining the routing of the Canbus cable
 - **Simplified Assembly:** This design reduces the complexity of assembly and the number of components needed for cable management.
 - **Enhanced Aesthetics:** The integration of the Canbus cable and Bowden tube from above creates a cleaner look for the Voron 2.4 printer.
 
-![Canbus and Bowden Tube Integration](images/preview.png)
+<img src="images/preview.png" width="300px" alt="Canbus and Bowden Tube Integration">
+
+<img src="images/image2.png" width="300px" alt="Canbus and Bowden Tube Integration">
+
+<img src="images/image3.png" width="300px" alt="Canbus and Bowden Tube Integration">
 
 
 ## Contributing
